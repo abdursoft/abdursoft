@@ -6,7 +6,7 @@
    <img src="https://komarev.com/ghpvc/?username=abdursoft&label=Profile%20views&color=0e75b6&style=flat" alt="abdursoft" />
 </p>
 
-- 🌱 I’m currently learning **MERN STACK** 
+- 🌱 Right now I'm working on **Laravel and PHP** 
 
 - 👨‍💻 All of my projects are available at [abdursoft](https://abdursoft.com)
 
