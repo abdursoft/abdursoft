@@ -33,9 +33,6 @@
    <a href="https://www.php.net" target="_blank">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="45" />
    </a>
-   <a href="https://flutter.dev">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="60" height="45" />
-   </a>
    <a href="https://laravel.com/"><img src="https://laravel.com/img/logotype.min.svg"  alt="laravel" width="60" height="45" />
    </a>
   <a href="https://www.mysql.com/" target="_blank">
@@ -46,6 +43,9 @@
    </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="45" />
+   </a>
+   <a href="https://flutter.dev">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="60" height="45" />
    </a>
    <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vuejs" width="60" height="45" />
    </a>
