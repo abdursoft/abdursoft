@@ -16,47 +16,47 @@
 <h3 align="left">Connect with me:</h3>  
 <p align="left">
    <a href="https://twitter.com/abdursoft" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdursoft" height="30" width="40" />
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdursoft" width="60" height="45" />
    </a>
    <a href="https://www.linkedin.com/in/abdursoft/" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdursoft/" height="30" width="40" />
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdursoft/" width="60" height="45" />
    </a>
    <a href="https://web.facebook.com/me.abdursoft/" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/muhammedh.shadir/" height="30" width="40" />
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/muhammedh.shadir/" width="60" height="45" />
    </a>
    <a href="https://www.instagram.com/me.abdursoft/" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abdursoft/" height="30" width="40" />
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abdursoft/" width="60" height="45" />
    </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://www.php.net" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="30" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="45" />
    </a>
-   <a href="https://laravel.com/"><img src="https://laravel.com/img/logotype.min.svg"  alt="laravel" width="40" height="30" />
+   <a href="https://flutter.dev">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="60" height="45" />
+   </a>
+   <a href="https://laravel.com/"><img src="https://laravel.com/img/logotype.min.svg"  alt="laravel" width="60" height="45" />
    </a>
   <a href="https://www.mysql.com/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="45" />
    </a>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="45" />
    </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="45" />
    </a>
-   <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vuejs" width="40" height="40" />
-   </a>
-   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
+   <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vuejs" width="60" height="45" />
    </a>
    <a href="https://postman.com" target="_blank" rel="noreferrer">
-   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
+   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="45" />
    </a>
    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
+   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="60" height="45" />
    </a>
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="45" />
    </a>
 </p>
 <p>
