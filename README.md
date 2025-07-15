@@ -7,12 +7,11 @@
 </p>
 
 - 🌱 Right now I'm working on **Laravel and PHP** 
-
 - 👨‍💻 All of my projects are available at [abdursoft](https://abdursoft.com)
-
 - 💬 Ask me about **PHP, Laravel, JavaScript**  
-- 📫 How to reach me **support@abdursoft.com**       
-- ⚡ Fun fact **Codding, Listening Music**  
+- 📫 How to reach me **abdursoft@gmail.com**       
+- ⚡ Fun fact **Codding, Listening Music**
+  
 <h3 align="left">Connect with me:</h3>  
 <p align="left">
    <a href="https://x.com/abdursoft" target="blank">
